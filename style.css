@@ -1,0 +1,11 @@
+ body {
+        background-color: rgb(175, 255, 255);
+        padding: 30px;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      }
+      h2 {
+        color: blueviolet;
+      }
+      .titulo-principal {
+        color: brown;
+      }
